@@ -1,0 +1,82 @@
+.cards {
+  padding: 4rem;
+  margin-left: 0px;
+  background: #fff;
+}
+
+h2 {
+  color: rgb(5, 0, 0);
+  margin-top: 20px;
+  margin-left: 30px;
+}
+h5{
+  margin-left: 30px;
+  color:rgb(88, 86, 86);
+}
+.cards_container{
+  background-color:white;
+  position:static;
+  height: 120vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  object-fit: contain;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Style tab links */
+.tablink {
+  margin:0;
+  display: block;
+  background-color:lightgrey;
+  color: black;
+  float: left;
+  border:2px;
+  outline:none;
+  text-align: start;
+  cursor: pointer;
+  padding: 5px 50px;
+  font-size: 20px;
+  width: 33.3%;
+  
+}
+
+.tablink:hover {
+  background-color:lightskyblue;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color:black;
+  display:contents;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+/* 
+.btn2{
+  background-color: white;
+  color: black;
+  outline:none;
+  margin-left: 50px;
+  margin-top: 30px;
+  padding: 40px 50px;
+  text-emphasis-position:inherit;
+  
+} */
+.hello{
+  background-color: #fff;
+  outline:invert;
+  margin-left: 50px;
+  margin-top: 30px;
+  padding: 10px 15px;
+  /* text-emphasis-position:inherit; */
+}
+.hello:hover{
+  color:blue;
+}
