@@ -1,5 +1,5 @@
 This project is generated using React.                                                                                                 
-Final Assignment : i.e. done at the time of practical exam. | FrontEnd clone of components https://www.helpr.in/
+Final Assignment : i.e. done at the time of practical exam. | FrontEnd clone of components of https://www.helpr.in/
 
 To run the projects:												                                                                                                              
 npm start										
